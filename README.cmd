@@ -3,3 +3,5 @@ This is a working directory of UVic2.9/MOBI2.0 with flux corrected advection (fc
 For this to work you need the base UVic model installation with the most recent updates available at https://github.com/OSU-CEOAS-Schmittner/UVic2.9.
 
 You can use the data directory from https://github.com/OSU-CEOAS-Schmittner/UVicMOBI_fct_npzd_o2_n_fe_ca_caco3.
+
+Support from NSF is acknowledged through grants 1131834, 1235544, and 1416700.
